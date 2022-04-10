@@ -21,6 +21,7 @@
   height: 234px;
   background-color: #512051;
   border-radius: 5px;
+ 
 }
 
 .bottom-testimonials .colton {
@@ -48,6 +49,11 @@
   width: 40px;
   height: 40px;
   border-radius: 50%;
+  position: absolute;
+  top: 40px;
+  left: 32px;
+  bottom: 154px;
+  right: 278px;
 
 }
 
@@ -66,6 +72,35 @@
   line-height: auto;
   letter-spacing: 0;
   color: #ffffff;
+
+  position: absolute;
+  top: 44px;
+  left: 95px;
+  bottom: 156px;
+  right: 158px;
+}
+
+.bottom-testimonials .testimonial {
+  font-family: 'Spartan', sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 22px;
+  letter-spacing: -0.23px;
+  color: #ffffff;
+
+  position: absolute;
+  top: 106px;
+  left: 32px;
+  bottom: 40px;
+  right: 32px;
+}
+
+.bottom-testimonials .name span {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: auto;
+  letter-spacing: 0;
+  color: #EE69A4;
 }
 
 
