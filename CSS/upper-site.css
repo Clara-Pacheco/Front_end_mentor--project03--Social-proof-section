@@ -30,8 +30,6 @@
   line-height: 48px;
   letter-spacing: -1.71px;
   color: #512051;
-  line-height: 48px;
-  letter-spacing: -1.71px;
 
 }
 
@@ -40,5 +38,54 @@
   font-weight: 500;
   line-height: 25px;
   letter-spacing: -0.5px;
+
+}
+
+.upper-site .rate {
+  width: 540px;
+  height: 200px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+
+.upper-site .rate .reviews,
+.upper-site .rate .guru,
+.upper-site .rate .besttech {
+  width: 445px;
+  height: 56px;
+  background-color: #F7F2F7;
+  border-radius: 5px;
+
+  font-family: 'Spartan', sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: auto;
+  letter-spacing: 0;
+  color: #512051;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.rate .reviews {
+  position: absolute;
+  right: 146px;
+}
+
+  .rate .guru {
+   position: absolute;
+   top: 72px;
+
+}
+
+.rate .besttech {
+  position: relative;
+  right: -31px;
+  top: 145px;
+  
 
 }
