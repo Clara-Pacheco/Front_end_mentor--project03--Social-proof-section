@@ -1,0 +1,44 @@
+.upper-site {
+  width: 1110px;
+  height: 235px;
+
+  position: absolute;
+  top: 127px;
+  left: 165px;
+  right: 165px;
+  bottom: 438px;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.upper-site .upper-text {
+  width: 445px;
+  height: 235px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+}
+
+.upper-site .upper-text h1,
+.upper-site .upper-text p {
+  font-family: 'Spartan', sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 48px;
+  letter-spacing: -1.71px;
+  color: #512051;
+  line-height: 48px;
+  letter-spacing: -1.71px;
+
+}
+
+.upper-site .upper-text p {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 25px;
+  letter-spacing: -0.5px;
+
+}
