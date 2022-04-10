@@ -1,0 +1,72 @@
+.bottom-testimonials {
+  width: 1110px;
+  height: 266px;
+ 
+
+  position: absolute;
+  top: 434px;
+  bottom: 100px;
+  left: 165px;
+  right: 165px;
+
+
+  display: flex;
+    
+}
+
+.bottom-testimonials .colton,
+.bottom-testimonials .irene,
+.bottom-testimonials .anne {
+  width: 350px;
+  height: 234px;
+  background-color: #512051;
+  border-radius: 5px;
+}
+
+.bottom-testimonials .colton {
+  margin-right: 30px;
+
+}
+
+.bottom-testimonials .irene {
+  margin-right: 30px;
+  position: relative;
+  top: 17px;
+  bottom: 17px;
+}
+
+.bottom-testimonials .anne {
+  position: relative;
+  top: 33px;
+  
+}
+
+
+.bottom-testimonials .colton img,
+.bottom-testimonials .irene img,
+.bottom-testimonials .anne img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+
+}
+
+.bottom-testimonials .colton p .name,
+.bottom-testimonials .irene p .name,
+.bottom-testimonials .anne p .name {
+  width: 97px;
+  height: 35px;
+
+}
+
+.bottom-testimonials .name {
+  font-family: 'Spartan', sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: auto;
+  letter-spacing: 0;
+  color: #ffffff;
+}
+
+
+  
