@@ -26,6 +26,8 @@ Users should be able to:
 
 - View the optimal layout for the section depending on their device's screen size
 
+![Challenge´s preview](https://github.com/Clara-Pacheco/Front_end_mentor--project03--Social-proof-section/blob/main/images/desktop-preview.jpg)
+
 ### Screenshot
 
 ![](./screenshot.jpg)
