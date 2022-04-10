@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Image of my final project](https://github.com/Clara-Pacheco/Front_end_mentor--project03--Social-proof-section/blob/main/images/Social%20proof%20section%20-%20Google%20Chrome%2010_04_2022%2014_29_09.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
